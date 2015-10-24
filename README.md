@@ -1,5 +1,5 @@
 # Semaine1
-Je m'appelle Etienne, j'ai 29 ans, et je suis franco-américain
+Je m'appelle Etienne, j'ai 29 ans, et je suis franco-américain.
 
 Je suis issu d'une formation de juriste en droit comparé, complétée par un LLM en Californie, 
 Après une cesure de 3 ans pendant laquelle j'ai donné des cours particuliers d'anglais à des adultes et ai été vendeur en chocolaterie puis en boulangerie,
